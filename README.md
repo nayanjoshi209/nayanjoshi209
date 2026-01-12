@@ -2,9 +2,9 @@
 Hey! I’m Nayan Joshi — a passionate Full-Stack Developer (in progress) and competitive programmer with a strong foundation in C++ and Data Structures & Algorithms. I’ve been coding consistently for 400+ days, building problem-solving skills while actively learning modern full-stack development.
 
 On LeetCode, I’ve solved 650+ problems, covering arrays, strings, recursion, linked lists, stacks, queues, trees, graphs, dynamic programming, and greedy algorithms. This has helped me develop clean logic, optimized solutions, and strong analytical thinking. Alongside DSA, I’m learning Full-Stack Development, working with:
-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: HTML, CSS, JavaScript, React
-𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Express
-𝗧𝗼𝗼𝗹𝘀: Git, GitHub, VS Code
+<br> 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: HTML, CSS, JavaScript, React
+<br> 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Express
+<br> 𝗧𝗼𝗼𝗹𝘀: Git, GitHub, VS Code
 
 I focus on writing clean, efficient, and readable code and enjoy turning ideas into working applications. I communicate fluently in English, learn fast, and enjoy explaining concepts—especially DSA and programming fundamentals.
 
