@@ -16,4 +16,4 @@
 *🔗 [𝗚𝗶𝘁𝗛𝘂𝗯](https://github.com/nayanjoshi209)  <br>*
 *🔗 [𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻](https://www.linkedin.com/in/nayan-joshi-634628242/) <br>*
 *🔗 [𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼](https://nayanjoshi209.github.io/myPortfolio/) <br>*
-*🔗 [𝗥𝗲𝘀𝘂𝗺𝗲]()*
+*🔗 [𝗥𝗲𝘀𝘂𝗺𝗲](https://github.com/nayanjoshi209/nayanjoshi209/blob/main/NynFullStackNewResumee.pdf)*
